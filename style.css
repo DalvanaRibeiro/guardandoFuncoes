@@ -1,0 +1,12 @@
+/* Estilização geral do corpo da página */
+body{
+    background-color: rgb(216, 216, 250); /* Cor de fundo da página */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* tipo de fonte */
+    color: rgb(123, 40, 40); /* mudo a cor do meu texto */
+    padding: 80px; /* espaçamento interno de 20 pixels (px) em todos os lados */
+}
+/* Estilo do título (h1) */
+h1{
+    text-align: center; /* Centraliza o texto */
+    color: darkblue; /* vai mudar só a cor  do h1, outros textos que podem ter não muda */
+}
